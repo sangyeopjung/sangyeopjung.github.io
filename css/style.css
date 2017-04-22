@@ -16,12 +16,12 @@ h2 {
     margin-top: 40px;
 }
 
-table {
+.pool table {
     margin-right: 15px;
 }
 
 .pool td {
-    text-align: center;
+    text-align: left;
     white-space: pre;
 }
 
