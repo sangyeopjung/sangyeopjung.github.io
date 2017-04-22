@@ -15,3 +15,24 @@ footer {
 h2 {
     margin-top: 40px;
 }
+
+table {
+    margin-right: 15px;
+}
+
+.pool td {
+    text-align: left;
+    white-space: pre;
+}
+
+.green {
+    background-color: rgb(204, 255, 204);
+}
+
+.yellow {
+    background-color: rgb(238,255,170);
+}
+
+.red {
+    background-color: rgb(255,204,204);
+}
