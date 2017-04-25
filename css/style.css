@@ -36,3 +36,13 @@ h2 {
 .red {
     background-color: rgb(255,204,204);
 }
+
+.toggle td {
+    height:18px; 
+    white-space: normal; 
+    text-align: right;
+}
+
+.toggle td a {
+    font-size:12px; 
+}
