@@ -37,10 +37,15 @@ h2 {
     background-color: rgb(255,204,204);
 }
 
+.grey {
+    background-color: #eee;
+}
+
 .toggle td {
     height:18px; 
     white-space: normal; 
     text-align: right;
+    padding: 2px !important;
 }
 
 .toggle td a {
