@@ -53,12 +53,13 @@ ol {
 }
 
 .toggle td {
-    height:18px; 
-    white-space: normal; 
+    height:18px;
+    white-space: normal;
     text-align: right;
     padding: 2px !important;
 }
 
 .toggle td a {
-    font-size:12px; 
+    font-size:12px;
+    cursor: pointer;
 }
